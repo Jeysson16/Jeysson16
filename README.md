@@ -30,7 +30,7 @@
   ### 📊 Estadísticas
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeysson16&theme=highcontrast&hide_border=true&date=hoy" alt="Jeysson16 Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jeysson16&locale=es" alt="GitHub Streak" /></a>
   </p>
   
   <p align="center">
