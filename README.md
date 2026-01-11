@@ -11,9 +11,10 @@
     <a href="https://instagram.com/jeysson_s.r" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 
-  <br>
+  ---
 
-  <h3>🚀 Mi Stack Tecnológico</h3>
+  ### 🚀 Mi Stack Tecnológico
+
   <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -24,22 +25,20 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 
-  <br>
+  ---
 
-  <h3>📊 Mis Estadísticas</h3>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jeysson16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="Jeysson16's Github Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysson16&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="Jeysson16's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  ### 📊 Estadísticas
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jeysson16&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Jeysson16" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeysson16&theme=highcontrast&hide_border=true" alt="Jeysson16 Streak" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysson16&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Jeysson16 Languages" />
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Jeysson16&label=Vistas&color=0e75b6&style=flat-square" alt="Jeysson16" />
   </p>
 
 </div>
