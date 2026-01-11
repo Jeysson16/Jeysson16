@@ -30,15 +30,11 @@
   ### 📊 Estadísticas
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeysson16&theme=highcontrast&hide_border=true" alt="Jeysson16 Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeysson16&theme=highcontrast&hide_border=true&date=hoy" alt="Jeysson16 Streak" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysson16&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Jeysson16 Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jeysson16&label=Vistas&color=0e75b6&style=flat-square" alt="Jeysson16" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysson16&layout=compact&theme=vision-friendly-dark&hide_border=true&date=hoy" alt="Jeysson16 Languages" />
   </p>
 
 </div>
