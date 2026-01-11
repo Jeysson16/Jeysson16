@@ -1,40 +1,47 @@
 <div align="center">
+  
+  <h1>Hola, soy Jeysson Manuel 👋</h1>
+  <h3>💻 Full Stack Developer | .NET & Angular | Flutter Mobile</h3>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hola,+soy+Jeysson+Manuel;Full+Stack+Developer;.NET+%26+Angular+Expert;Mobile+Dev+con+Flutter" alt="Typing SVG" />
+  <br>
+
+  <a href="https://facebook.com/Jeysson.SR16" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/jeysson_s.r" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 
-  <h3>👨‍💻 Construyendo soluciones digitales desde Trujillo, Perú 🇵🇪</h3>
-
-  <p align="center">
-    <a href="https://facebook.com/Jeysson.SR16" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="https://instagram.com/jeysson_s.r" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  </p>
+  <br><br>
 
   ---
 
-  ### 🚀 Mi Stack Tecnológico
+  ### 🛠️ Mi Arsenal Tecnológico
 
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
+  **Backend & Core**
+  <br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+  <br>
+
+  **Frontend & Mobile**
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
   ---
 
-  ### 📊 Estadísticas
+  <br>
 
-  <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jeysson16&locale=es" alt="GitHub Streak" /></a>
-  </p>
+  ### 📊 Resumen Rápido
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysson16&layout=compact&theme=vision-friendly-dark&hide_border=true&date=hoy" alt="Jeysson16 Languages" />
-  </p>
+  | 🌱 Aprendiendo actualmente | 🔭 Trabajando en | 💬 Pregúntame sobre |
+  | :--- | :--- | :--- |
+  | **Arquitectura Limpia** | **Sistemas de Chat (.NET)** | **Flutter & C#** |
 
 </div>
