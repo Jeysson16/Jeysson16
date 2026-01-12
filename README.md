@@ -14,7 +14,7 @@ Soy un desarrollador apasionado de <b>Trujillo, Perú</b>. Me especializo en cre
 <li>🔭 <b>Trabajando en:</b> Apps de delivery y Gestión.</li>
 <li>💬 <b>Pregúntame sobre:</b> C#, Angular, Dart.</li>
 <li>⚡ <b>Dato curioso:</b> Fan de la fotografía.</li>
-<li>📫 <b>Contacto:</b> <a href="mailto:tuemail@gmail.com">tuemail@gmail.com</a></li>
+<li>📫 <b>Contacto:</b> <a href="mailto:jeysson_s.r@hotmail.com">tuemail@gmail.com</a></li>
 </ul>
 <br>
 <a href="https://facebook.com/Jeysson.SR16" target="_blank">
