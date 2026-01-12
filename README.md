@@ -11,7 +11,7 @@ Soy un Ingeniero de Software ubicado en **Trujillo, Perú 🇵🇪**. Me especia
 
 * 🔭 **Experiencia Real:** Desarrollo de sistemas de **Chat en Tiempo Real** y Apps de **Educación y Gestión**.
 * 🏗️ **Arquitectura:** Obsesionado con el código limpio (**Clean Architecture**), DDD, Container, Adapters, Presenters y principios **SOLID**.
-* 📱 **Mobile:** Experto en **Flutter** & Dart.
+* 📱 **Mobile y Frontend:** Experto en **Flutter** & Dart, **Angular** & TypeScript.
 * ⚡ **Backend:** Dominio de **.NET (C#)** **Node js** y APIs RESTful.
 * 📫 **Contacto:** [jeysson_s.r@hotmail.com](mailto:jeysson_s.r@hotmail.com)
 
