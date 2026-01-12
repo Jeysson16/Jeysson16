@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jeysson Manuel 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | .NET & Flutter Expert</h3>
+<h3 align="center">🚀 Full Stack Developer | Angular & Flutter Developer</h3>
 
 <br>
 
